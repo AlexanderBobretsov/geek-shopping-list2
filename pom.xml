@@ -118,7 +118,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>heroku.App</mainClass>
+							<mainClass>ru.geekbrains</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
