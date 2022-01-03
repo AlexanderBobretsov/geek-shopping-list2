@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* ru.geekbrains.GeekShoppingListApplication
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* ru.geekbrains
