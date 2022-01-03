@@ -118,7 +118,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>ru.geekbrains</mainClass>
+							<mainClass>ru.geekbrains.GeekShoppingListApplication</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
